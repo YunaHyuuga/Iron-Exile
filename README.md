@@ -1,7 +1,7 @@
 # Iron Exile – Konzeptprojekt
 
 **Spielname:** Iron Exile  
-**Projektkennung:** SGP-RPG · **Stand:** 0.5.0 · **Datum:** 01.11.2026  
+**Projektkennung:** SGP-RPG · **Stand:** 0.6.1 · **Datum:** 01.11.2026  
 **Phase:** Storyplanung · **Sprache:** Deutsch
 
 Ein dauerhaft weiterführbares Konzeptarchiv für Iron Exile: eine Gothic-artige offene Fraktionswelt auf einem Gefängnisplaneten mit autoritär kontrollierten und gesetzlosen Trakten. Die spätere Entwicklung ist mit Unreal Engine 5 und Codex vorgesehen.
@@ -54,3 +54,7 @@ Dieser gesamte Ordner ist das Projekt. Markdown-Dateien lassen sich in jedem Tex
 Für die nächste Sitzung zuerst README, STATUS und GDD öffnen oder den gesamten Ordner in Codex als Arbeitsordner verwenden. Kontext aus früheren Chats ist dafür nicht erforderlich. Die Dateien sind die dauerhafte Wissensbasis; ein Chat allein ersetzt sie nicht.
 
 Eine zusätzliche Sicherung an einem selbst gewählten Ort oder in einem privaten Versionsarchiv schützt vor lokalem Datenverlust. GitHub-Sicherung: https://github.com/YunaHyuuga/Iron-Exile. Keine automatische Synchronisierung.
+
+## Aktueller Systementwurf
+
+[Attribute, Talente und Jobs](01_Design/ATTRIBUTE_TALENTE_JOBS.md): fünf bestätigte Attribute und unverbindlicher Entwurf der Lernsysteme.

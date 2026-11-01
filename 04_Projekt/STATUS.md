@@ -1,6 +1,6 @@
 # Projektstatus und Wiedereinstieg
 
-**Stand:** 01.11.2026 · **Version:** 0.5.0 · **Phase:** Storyplanung
+**Stand:** 01.11.2026 · **Version:** 0.6.1 · **Phase:** Storyplanung
 
 ## Erreicht
 
@@ -22,7 +22,7 @@ Anschließend GDD aktualisieren, bestätigte Entscheidungen protokollieren und d
 
 Den Projektordner öffnen beziehungsweise bereitstellen und beispielsweise schreiben:
 
-> Setze dieses Konzeptprojekt fort. Lies zuerst README.md, 04_Projekt/STATUS.md und 01_Design/GDD.md. Behandle nur GESETZT als bestätigt. Besprich als Nächstes Q-001 und Q-002 mit mir. Dokumentiere bestätigte Ergebnisse in GDD, Entscheidungsprotokoll, Status und Changelog; lege keine endgültigen Namen oder Lore ohne meine Entscheidung fest.
+> Setze dieses Konzeptprojekt fort. Lies zuerst README.md, 04_Projekt/STATUS.md und 01_Design/GDD.md. Behandle nur GESETZT als bestätigt. Setze die Storyplanung anhand des neuesten Gesprächsstands fort. Dokumentiere bestätigte Ergebnisse in GDD, Entscheidungsprotokoll, Status und Changelog; lege keine endgültigen Namen oder Lore ohne meine Entscheidung fest.
 
 ## Nach jeder Sitzung aktualisieren
 
@@ -39,3 +39,7 @@ DEC-009: Kapitel 1 Ungeziefer; Kapitel 2 anerkannter Häftling; Wahl zwischen vi
 ## Aktueller nächster Schritt – Storyplanung
 
 Den Charaktersteckbrief ausarbeiten: Verurteilungsgrund, persönliche Fluchtmotivation und Persönlichkeit. Noch keine technische Umsetzung. Dieser Schwerpunkt hat Vorrang vor den oben erhaltenen früheren Planungsschritten. GitHub wird mit diesem Stand auf ausdrücklichen Nutzerauftrag aktualisiert.
+
+## Neuester Gesprächsstand
+
+Fünf Attribute bestätigt (DEC-011). Aktuell werden skalierende Talente und erlernbare Jobs besprochen; der Entwurf steht in 01_Design/ATTRIBUTE_TALENTE_JOBS.md. Figurendetails bleiben offen. Version 0.6.1 fasst Attribute, Talente und Jobs in einer gemeinsamen Tabelle zusammen und wird auf Nutzerauftrag ins Repository übertragen. Attribute sind bestätigt; Talent- und Jobdetails bleiben Arbeitsentwurf.

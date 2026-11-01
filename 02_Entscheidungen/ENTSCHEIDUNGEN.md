@@ -29,7 +29,7 @@
 ## Vorlage für neue Beschlüsse
 
 ```text
-ID: DEC-011 (nächste freie Nummer verwenden)
+ID: DEC-012 (nächste freie Nummer verwenden)
 Datum:
 Status: VORSCHLAG / GESETZT / ERSETZT / VERWORFEN
 Frage:
@@ -41,6 +41,12 @@ Ersetzt gegebenenfalls:
 ```
 
 Bestehende Beschlüsse bei Änderungen nicht spurlos löschen. Als ersetzt markieren und mit dem neuen Beschluss verknüpfen. Offene Fragen werden erst durch eine bestätigte Entscheidung verbindlich.
+
+## DEC-011 – Fünf Attribute bestätigt
+
+Datum: 01.11.2026 · Status: GESETZT · Grundlage: ausdrückliche Nutzerbestätigung.
+
+Die Attribute lauten Stärke, Geschick, Konstitution, Verstand und Präsenz. Talente und erlernbare Jobs werden als Nächstes ausgearbeitet. Konkrete Talentlisten, Jobregeln, Skalierungsformeln, Origins und Startboni sind noch nicht beschlossen. Siehe ATTRIBUTE_TALENTE_JOBS.md im Designordner.
 
 ## DEC-007 – Spielname bestätigt
 

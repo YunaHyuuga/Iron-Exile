@@ -1,6 +1,6 @@
 # Iron Exile – Game Design Document
 
-**Version:** 0.5.0 · **Stand:** 01.11.2026 · **Status:** Konzeptgrundlage
+**Version:** 0.6.1 · **Stand:** 01.11.2026 · **Status:** Konzeptgrundlage
 
 ## 1. Vision
 
@@ -120,3 +120,7 @@ OFFEN: Fraktionsnamen, weitere Ränge, konkrete Aufnahme- und Kapitelübergangsq
 ## 13. Aktuelle Phase: Storyplanung
 
 Siehe [Charaktersteckbrief](CHARAKTER_STECKBRIEF.md). Nächster Schwerpunkt: Verurteilungsgrund, persönliche Fluchtmotivation und Persönlichkeit. Technische Umsetzung folgt später.
+
+## 14. Attribute und Lernsysteme
+
+GESETZT (DEC-011): Stärke, Geschick, Konstitution, Verstand, Präsenz. Konkrete Talent- und Jobregeln sind Vorschläge; siehe [Systementwurf](ATTRIBUTE_TALENTE_JOBS.md). Die früher offene Frage zu Attributen ist damit konkretisiert. Storyplanung bleibt die aktuelle Phase, ergänzt um die dafür nötigen Systemkonzepte.

@@ -1,5 +1,16 @@
 # Änderungsverlauf
 
+## 0.6.1 – 01.11.2026
+
+- Gemeinsame Übersicht aller Attribute, Talentvorschläge, Skalierungswirkungen und passenden Jobs ergänzt.
+- Bestätigte Attribute und unverbindliche Systemdetails weiterhin getrennt.
+- Übertragung aller aktuellen Konzeptdateien auf GitHub beauftragt.
+
+## 0.6.0 – 01.11.2026
+
+- Fünf Attribute bestätigt (DEC-011).
+- Unverbindlichen Entwurf für skalierende Talente, Jobs und Lernen ergänzt; Origins nicht als bestätigt übernommen.
+
 ## 0.5.0 – 01.11.2026
 
 - Storyplanung als aktuelle Phase festgehalten (DEC-010).
