@@ -1,6 +1,6 @@
 # Iron Exile – Game Design Document
 
-**Version:** 0.6.1 · **Stand:** 01.11.2026 · **Status:** Konzeptgrundlage
+**Version:** 0.9.0 · **Stand:** 01.11.2026 · **Status:** Konzeptgrundlage
 
 ## 1. Vision
 
@@ -49,7 +49,7 @@ Ein teilweiser Systemzusammenbruch ist eine mögliche Erklärung, aber keine fes
 
 **VORSCHLAG:** Gruppen unterscheiden sich durch Ressourcen, Regeln, Zugangsrechte und Interessen. Zugehörigkeit soll erfahrbare Vorteile und Kosten haben.
 
-**OFFEN:** Namen, Ideologien, Mitgliedschaftsregeln, Wechselmöglichkeiten und Konsequenzen. „Banden“, „Schmuggler“, „ehemalige Aufseher“ und „Gefangenenstaaten“ sind Ideen, keine bereits existierenden Fraktionen.
+**OFFEN:** Ausgearbeitete Ideologien, Mitgliedschaftsregeln, Wechselmöglichkeiten und Konsequenzen. Die Namen und Grundprofile sind durch DEC-012 konkretisiert. „Banden“, „Schmuggler“, „ehemalige Aufseher“ und „Gefangenenstaaten“ sind Ideen, keine bereits existierenden Fraktionen.
 
 Für spätere Entwürfe je Fraktion erfassen: kontrollierter Ort, benötigte Ressource, Angebot an den Spieler, interne Spannung, Verhältnis zur Verwaltung und zu anderen Gruppen.
 
@@ -124,3 +124,15 @@ Siehe [Charaktersteckbrief](CHARAKTER_STECKBRIEF.md). Nächster Schwerpunkt: Ver
 ## 14. Attribute und Lernsysteme
 
 GESETZT (DEC-011): Stärke, Geschick, Konstitution, Verstand, Präsenz. Konkrete Talent- und Jobregeln sind Vorschläge; siehe [Systementwurf](ATTRIBUTE_TALENTE_JOBS.md). Die früher offene Frage zu Attributen ist damit konkretisiert. Storyplanung bleibt die aktuelle Phase, ergänzt um die dafür nötigen Systemkonzepte.
+
+## 15. Fortschrittskonzept – Vorschlag
+
+[Lernen und Fortschritt](LERNEN_UND_FORTSCHRITT.md) entwickelt die Nutzeridee von Startattributen 10, Talenten 0 % und drei Jobstufen. Alle konkreten Startwerte, Kosten und Formeln sind bis zur Bestätigung Vorschläge. Die fünf Attributnamen bleiben bestätigt.
+
+## 16. Kapitelbogen bis zum Finale – Arbeitsentwurf
+
+Der [Storyentwurf](STORY_KAPITEL.md) erweitert die bestätigte Einstiegsstruktur um Aufstieg in Kapitel 3, Machtkampf in Kapitel 4, Transportnetz in Kapitel 5 und Schlacht mit Flucht in Kapitel 6. Ausbau und Details bleiben Vorschläge. Besonders die Fortsetzung des Spitzelwegs und die Grenze zwischen lokalen Transporten und Flucht sind offen.
+
+## 17. Bestätigte Fraktionen (DEC-012)
+
+Die Eisenfaust, Die Schaltwerker, Die Graue Hand und Die Zuflucht sind die vier Häftlingsfraktionen. [Grundprofile und offene Fragen](FRAKTIONEN.md). Frühere allgemeine Hinweise auf offene Fraktionsnamen sind damit für diese vier Fraktionen überholt. Weitere Ränge und konkrete Ausbruchspläne bleiben offen. Der Spitzelpfad bleibt bestehen und wird vorerst zurückgestellt.

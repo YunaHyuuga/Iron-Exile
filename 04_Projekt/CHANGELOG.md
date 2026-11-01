@@ -1,5 +1,23 @@
 # Änderungsverlauf
 
+## 0.9.0 – 01.11.2026
+
+- Vier Häftlingsfraktionen und ausgewählte Grundprofile dokumentiert (DEC-012).
+- Spitzelpfad als erhalten, aber zurückgestellt festgehalten.
+- Nächsten Schwerpunkt auf die Ausarbeitung der Fraktionsgrundlage gelegt.
+
+## 0.8.0 – 01.11.2026
+
+- Arbeitsentwurf für sechs Kapitel bis zum Showdown und zur Flucht ergänzt.
+- Machtkampf, Transportnetz, Bündnisse und begrenzte Schlachtereignisse beschrieben.
+- Spitzelweg, Fluchtbarrieren und persönliches Ziel als offene Storyfragen markiert.
+
+## 0.7.0 – 01.11.2026
+
+- Unverbindlichen Entwurf zu Startwerten, Talentprozenten, drei Jobstufen und zehn besonderen Fähigkeiten ergänzt.
+- LP-/XP-Modell und nach Voraussetzungen geprüftes Budgetbeispiel bis Level 20 dokumentiert.
+- Endgültiger Umfang und Zahlen bleiben offen; keine Übertragung dieser Version beauftragt.
+
 ## 0.6.1 – 01.11.2026
 
 - Gemeinsame Übersicht aller Attribute, Talentvorschläge, Skalierungswirkungen und passenden Jobs ergänzt.

@@ -1,45 +1,32 @@
 # Projektstatus und Wiedereinstieg
 
-**Stand:** 01.11.2026 · **Version:** 0.6.1 · **Phase:** Storyplanung
+**Stand:** 01.11.2026 · **Version:** 0.9.0 · **Phase:** Storyplanung
 
-## Erreicht
+## Bestätigter Stand
 
-- Dauerhaft lesbare und bearbeitbare Projektstruktur angelegt.
-- Nutzerseitige Grundlagen von unverbindlichen Vorschlägen getrennt.
-- GDD, Entscheidungsprotokoll, Ideen-Backlog, Roadmap und Versionierung eingerichtet.
+- Spielname: Iron Exile.
+- Sci-Fi-Gefängnisplanet mit kontrollierten und gesetzlosen Trakten; offene Fraktionswelt.
+- Vorgegebener unerfahrener Held ohne besondere Startfähigkeiten; Fähigkeiten werden erlernt. ElevenLabs als Vertonungsrichtung.
+- Kapitel 1: Ungeziefer, erste Kontakte, Quests und Fähigkeiten. Kapitel 2: anerkannter Häftling. Bindung an eine Seite mit eigenem Rang eröffnet Kapitel 3. Ziel: Flucht.
+- Vier Häftlingsfraktionen: Die Eisenfaust, Die Schaltwerker, Die Graue Hand, Die Zuflucht. Grundprofile in 01_Design/FRAKTIONEN.md.
+- Spitzelweg der Wärter bleibt erhalten, wird aber vorerst nicht ausgearbeitet.
+- Fünf Attribute: Stärke, Geschick, Konstitution, Verstand, Präsenz.
 
-## Aktueller Stand
+## Arbeitsentwürfe und offene Fragen
 
-Der Schauplatz und die grundlegende Spielrichtung sind gesetzt. Der bestätigte Spielname lautet Iron Exile. Es gibt noch keine feste Lore, keinen verbindlichen Funktionsumfang und keinen spielbaren Prototyp. Ein Unreal-Projekt wurde noch nicht angelegt.
+- 01_Design/STORY_KAPITEL.md: Ausbau bis Kapitel 6 mit Machtkampf, Transportnetz, Schlacht und Flucht ist Arbeitsentwurf.
+- 01_Design/ATTRIBUTE_TALENTE_JOBS.md und LERNEN_UND_FORTSCHRITT.md: Talent-, Job-, Fähigkeiten- und Lernpunktemodell samt Zahlen sind Vorschläge.
+- Start mit Attributen 10 und Talenten 0 %, drei Jobstufen sowie XP/Level-System noch nicht abschließend bestätigt.
+- Name, Alter, Erscheinung, Vergangenheit, Verurteilungsgrund und persönliche Fluchtmotivation des Helden bleiben offen. Zu Unrecht verurteilt und fünf Origins sind noch keine beschlossenen Details.
 
-## Frühere Planungsschritte (nachrangig)
+## Nächster Schwerpunkt
 
-Q-001 und Q-002 aus dem Entscheidungsprotokoll gemeinsam klären: Welches Spielerlebnis steht im Mittelpunkt, und welcher kleine Ausschnitt kann es überprüfen? Vorschlag zur Diskussion: Ein Neuankömmling muss zwischen kontrolliertem Zugang und gesetzlosem Trakt Handlungsspielraum gewinnen.
+Gebiete, Beziehungen, Aufnahmebedingungen, Anführer und innere Konflikte der vier Fraktionen ausarbeiten. Keine neuen Namen oder Lore ohne ausdrückliche Entscheidung als gesetzt übernehmen. Charakterfragen bleiben parallel offen.
 
-Anschließend GDD aktualisieren, bestätigte Entscheidungen protokollieren und den kleinen Ausschnitt skizzieren. Keine Namen oder Hintergrundgeschichte nötig, bevor sie für diesen Schritt hilfreich werden.
+## Wiedereinstieg
 
-## Fortsetzung in einem neuen Chat
+README, diesen Status, GDD, FRAKTIONEN und Entscheidungsprotokoll lesen. Nur GESETZT als bestätigt behandeln. Wir befinden uns weiterhin in der Storyplanung. Unreal-Projekt und technische Umsetzung wurden nicht begonnen.
 
-Den Projektordner öffnen beziehungsweise bereitstellen und beispielsweise schreiben:
+## Sicherung
 
-> Setze dieses Konzeptprojekt fort. Lies zuerst README.md, 04_Projekt/STATUS.md und 01_Design/GDD.md. Behandle nur GESETZT als bestätigt. Setze die Storyplanung anhand des neuesten Gesprächsstands fort. Dokumentiere bestätigte Ergebnisse in GDD, Entscheidungsprotokoll, Status und Changelog; lege keine endgültigen Namen oder Lore ohne meine Entscheidung fest.
-
-## Nach jeder Sitzung aktualisieren
-
-Erreichte Ergebnisse, neue Beschlüsse, offene Punkte und den nächsten Schritt eintragen. Version und Changelog gemeinsam aktualisieren, wenn sich der dokumentierte Projektstand ändert.
-
-## Aktuelle Figurenentscheidung
-
-Vorgegebene Hauptfigur; unerfahrener Frischling ohne besondere Fähigkeiten, der seine Skills erst lernen muss (DEC-008). Name, Spitzname und Vorgeschichte sind offen. Bisherige Berufsentwürfe sind nicht bestätigt. Konkrete Lernsysteme noch nicht festgelegt. ElevenLabs ist für die spätere Vertonung vorgesehen.
-
-## Aktuelle Kapitelentscheidung
-
-DEC-009: Kapitel 1 Ungeziefer; Kapitel 2 anerkannter Häftling; Wahl zwischen vier Häftlingsfraktionen und Wärter-/Spitzelweg; Eintritt in Kapitel 3 mit wegspezifischem Rang. Ziel ist Flucht. Nächster Schwerpunkt: die fünf Wege voneinander abgrenzen, dann Übergangs- und Aufnahmeaufgaben entwerfen. GDD Abschnitt 12 enthält den aktuellen Stand.
-
-## Aktueller nächster Schritt – Storyplanung
-
-Den Charaktersteckbrief ausarbeiten: Verurteilungsgrund, persönliche Fluchtmotivation und Persönlichkeit. Noch keine technische Umsetzung. Dieser Schwerpunkt hat Vorrang vor den oben erhaltenen früheren Planungsschritten. GitHub wird mit diesem Stand auf ausdrücklichen Nutzerauftrag aktualisiert.
-
-## Neuester Gesprächsstand
-
-Fünf Attribute bestätigt (DEC-011). Aktuell werden skalierende Talente und erlernbare Jobs besprochen; der Entwurf steht in 01_Design/ATTRIBUTE_TALENTE_JOBS.md. Figurendetails bleiben offen. Version 0.6.1 fasst Attribute, Talente und Jobs in einer gemeinsamen Tabelle zusammen und wird auf Nutzerauftrag ins Repository übertragen. Attribute sind bestätigt; Talent- und Jobdetails bleiben Arbeitsentwurf.
+Repository: https://github.com/YunaHyuuga/Iron-Exile. Version 0.9.0 ist der Stand dieses beauftragten GitHub-Updates. Keine automatische Synchronisierung. ZIP 0.1.0 bleibt die historische Erstfassung. Nach neuen Sitzungen Status, Version und Changelog aktualisieren.

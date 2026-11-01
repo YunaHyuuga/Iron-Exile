@@ -29,7 +29,7 @@
 ## Vorlage für neue Beschlüsse
 
 ```text
-ID: DEC-012 (nächste freie Nummer verwenden)
+ID: DEC-013 (nächste freie Nummer verwenden)
 Datum:
 Status: VORSCHLAG / GESETZT / ERSETZT / VERWORFEN
 Frage:
@@ -41,6 +41,12 @@ Ersetzt gegebenenfalls:
 ```
 
 Bestehende Beschlüsse bei Änderungen nicht spurlos löschen. Als ersetzt markieren und mit dem neuen Beschluss verknüpfen. Offene Fragen werden erst durch eine bestätigte Entscheidung verbindlich.
+
+## DEC-012 – Vier Häftlingsfraktionen ausgewählt
+
+Datum: 01.11.2026 · Status: GESETZT · Grundlage: ausdrückliche Auswahl des Nutzers.
+
+Die Eisenfaust, Die Schaltwerker, Die Graue Hand und Die Zuflucht bilden die vier Häftlingsfraktionen. Ihre ausgewählten Grundprofile werden in 01_Design/FRAKTIONEN.md dokumentiert. Weitergehende Lore bleibt offen. Gemäß vorheriger Nutzeranweisung bleibt der Spitzelpfad bestehen, wird aber erst nach Ausarbeitung der Fraktionsgrundlage ergänzt.
 
 ## DEC-011 – Fünf Attribute bestätigt
 

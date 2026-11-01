@@ -1,7 +1,7 @@
 # Iron Exile – Konzeptprojekt
 
 **Spielname:** Iron Exile  
-**Projektkennung:** SGP-RPG · **Stand:** 0.6.1 · **Datum:** 01.11.2026  
+**Projektkennung:** SGP-RPG · **Stand:** 0.9.0 · **Datum:** 01.11.2026  
 **Phase:** Storyplanung · **Sprache:** Deutsch
 
 Ein dauerhaft weiterführbares Konzeptarchiv für Iron Exile: eine Gothic-artige offene Fraktionswelt auf einem Gefängnisplaneten mit autoritär kontrollierten und gesetzlosen Trakten. Die spätere Entwicklung ist mit Unreal Engine 5 und Codex vorgesehen.
@@ -58,3 +58,9 @@ Eine zusätzliche Sicherung an einem selbst gewählten Ort oder in einem private
 ## Aktueller Systementwurf
 
 [Attribute, Talente und Jobs](01_Design/ATTRIBUTE_TALENTE_JOBS.md): fünf bestätigte Attribute und unverbindlicher Entwurf der Lernsysteme.
+
+[Lernen und Fortschritt](01_Design/LERNEN_UND_FORTSCHRITT.md): Entwurf für Startwerte, Talentprozente, drei Jobstufen, Fähigkeiten und LP/XP-System.
+
+[Kapitelbogen 1–6](01_Design/STORY_KAPITEL.md): bestehender Einstieg und neuer Arbeitsentwurf bis zur Flucht.
+
+[Die vier Häftlingsfraktionen](01_Design/FRAKTIONEN.md): bestätigte Auswahl, Grundgebiete und Ambitionen.
