@@ -1,6 +1,6 @@
 # Projektstatus und Wiedereinstieg
 
-**Stand:** 01.11.2026 · **Version:** 0.9.0 · **Phase:** Storyplanung
+**Stand:** 01.11.2026 · **Version:** 0.11.0 · **Phase:** Storyplanung
 
 ## Bestätigter Stand
 
@@ -29,4 +29,8 @@ README, diesen Status, GDD, FRAKTIONEN und Entscheidungsprotokoll lesen. Nur GES
 
 ## Sicherung
 
-Repository: https://github.com/YunaHyuuga/Iron-Exile. Version 0.9.0 ist der Stand dieses beauftragten GitHub-Updates. Keine automatische Synchronisierung. ZIP 0.1.0 bleibt die historische Erstfassung. Nach neuen Sitzungen Status, Version und Changelog aktualisieren.
+Repository: https://github.com/YunaHyuuga/Iron-Exile. Version 0.11.0 ist der Stand dieses beauftragten GitHub-Updates. Keine automatische Synchronisierung. ZIP 0.1.0 bleibt die historische Erstfassung. Nach neuen Sitzungen Status, Version und Changelog aktualisieren.
+
+## Aktuell: Karte bestätigt, Storyeinstieg entwerfen
+
+Konzeptkarte 01 ist als räumliche Grundlage bestätigt (DEC-013). Neuer Arbeitsentwurf: Gefangenenkonvoi HQ–Fördergruben gerät in ein Gefecht zweier dem Helden unbekannter Fraktionen. Er entkommt mit Mitgefangenen ins Gebiet der Grauen Hand. Als Nächstes Gefechtsort, Fluchtmechanik und ersten Kontakt ausarbeiten. Keine automatische Mitgliedschaft bei der Grauen Hand. Der Spitzelpfad bleibt zurückgestellt. 0.11.0 ist der Stand dieses beauftragten Repository-Updates einschließlich Kartenbild.

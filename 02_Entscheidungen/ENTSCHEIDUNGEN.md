@@ -29,7 +29,7 @@
 ## Vorlage für neue Beschlüsse
 
 ```text
-ID: DEC-013 (nächste freie Nummer verwenden)
+ID: DEC-014 (nächste freie Nummer verwenden)
 Datum:
 Status: VORSCHLAG / GESETZT / ERSETZT / VERWORFEN
 Frage:
@@ -41,6 +41,12 @@ Ersetzt gegebenenfalls:
 ```
 
 Bestehende Beschlüsse bei Änderungen nicht spurlos löschen. Als ersetzt markieren und mit dem neuen Beschluss verknüpfen. Offene Fragen werden erst durch eine bestätigte Entscheidung verbindlich.
+
+## DEC-013 – Konzeptkarte bestätigt
+
+Datum: 01.11.2026 · Status: GESETZT · Grundlage: Nutzerauftrag, die Karte als valides Konzept zu übernehmen und ins Repository zu übertragen.
+
+Konzeptkarte 01 mit zwölf Gebieten einschließlich Fraktionslagern und Wärter-HQ ist die bestätigte räumliche Konzeptgrundlage. Dies bestätigt die Gebietsnamen, grobe Anordnung und dargestellten Verbindungen als Konzept, nicht einen maßstäblichen Levelplan oder sämtliche daraus denkbaren Lore-Fakten. Detailwege, Zugänge, Größen und Questzustände bleiben auszuarbeiten. Der neue Konvoi-Storyeinstieg wird separat als Arbeitsentwurf dokumentiert.
 
 ## DEC-012 – Vier Häftlingsfraktionen ausgewählt
 

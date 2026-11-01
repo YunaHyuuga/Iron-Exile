@@ -1,6 +1,6 @@
 # Iron Exile – Game Design Document
 
-**Version:** 0.9.0 · **Stand:** 01.11.2026 · **Status:** Konzeptgrundlage
+**Version:** 0.11.0 · **Stand:** 01.11.2026 · **Status:** Konzeptgrundlage
 
 ## 1. Vision
 
@@ -136,3 +136,11 @@ Der [Storyentwurf](STORY_KAPITEL.md) erweitert die bestätigte Einstiegsstruktur
 ## 17. Bestätigte Fraktionen (DEC-012)
 
 Die Eisenfaust, Die Schaltwerker, Die Graue Hand und Die Zuflucht sind die vier Häftlingsfraktionen. [Grundprofile und offene Fragen](FRAKTIONEN.md). Frühere allgemeine Hinweise auf offene Fraktionsnamen sind damit für diese vier Fraktionen überholt. Weitere Ränge und konkrete Ausbruchspläne bleiben offen. Der Spitzelpfad bleibt bestehen und wird vorerst zurückgestellt.
+
+## 18. Erste räumliche Konzeptkarte
+
+[Konzeptkarte 01](Karten/KONZEPTKARTE_01.md) zeigt zwölf unterschiedlich große Gebiete einschließlich der vier Fraktionslager und des Wärter-HQ. Neue Geografie, Wege und zusätzliche Gebietsnamen sind Vorschläge. Keine Startposition oder verbindliche Weltgröße festgelegt.
+
+## 19. Kartenfreigabe und Storyeinstieg
+
+DEC-013 bestätigt Konzeptkarte 01 als räumliche Konzeptgrundlage. Frühere Vorschlagsmarkierungen zur groben Karte sind damit überholt; Detailplanung bleibt offen. [Storyeinstieg](STORY_EINSTIEG.md): neuer Arbeitsentwurf mit Konvoi vom HQ zu den Fördergruben, Flucht im Gefecht zweier zunächst unbekannter Fraktionen und Ankunft im Gebiet der Grauen Hand. Kampfparteien und genaue Route offen.

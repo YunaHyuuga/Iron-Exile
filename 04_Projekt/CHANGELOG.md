@@ -1,5 +1,17 @@
 # Änderungsverlauf
 
+## 0.11.0 – 01.11.2026
+
+- Konzeptkarte 01 als räumliche Grundlage bestätigt (DEC-013).
+- Neuen Konvoi- und Fluchteinstieg als Nutzerentwurf dokumentiert.
+- Übertragung einschließlich Kartenbild und Prompt beauftragt.
+
+## 0.10.0 – 01.11.2026
+
+- Illustrierte Konzeptkarte 01 mit zwölf beschrifteten Gebieten erstellt.
+- Bild, Gebietsliste und vollständigen Imagegen-Prompt im Projekt gespeichert.
+- Neue Geografie und Gebietsnamen ausdrücklich als Vorschläge gekennzeichnet.
+
 ## 0.9.0 – 01.11.2026
 
 - Vier Häftlingsfraktionen und ausgewählte Grundprofile dokumentiert (DEC-012).
