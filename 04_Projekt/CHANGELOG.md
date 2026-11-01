@@ -1,5 +1,28 @@
 # Änderungsverlauf
 
+## 0.5.0 – 01.11.2026
+
+- Storyplanung als aktuelle Phase festgehalten (DEC-010).
+- Charaktersteckbrief mit bestätigtem Kern, offenen Fragen und getrenntem Persönlichkeitsvorschlag ergänzt.
+- Navigation aktualisiert; Übertragung aller aktuellen Konzeptdateien auf GitHub beauftragt.
+
+## 0.4.0 – 01.11.2026
+
+- Kapitel 1–3, allgemeine Einstiegsränge und wegspezifischen Rangaufstieg bestätigt (DEC-009).
+- Vier Häftlingsfraktionen, Wärter-/Spitzelalternative und Fluchtziel festgehalten.
+- Versionsangabe und GitHub-Stand berichtigt. Jobs und ungerechte Verurteilung bleiben offen.
+
+## 0.3.0 – 01.11.2026
+
+- Vorgegebene Hauptfigur und ElevenLabs-Richtung aus dem Gespräch dokumentiert.
+- Unerfahrener Frischling ohne besondere Startfähigkeiten bestätigt (DEC-008).
+- Berufliche Fähigkeiten, Namen und Spitznamen nicht als gesetzt übernommen.
+
+## 0.2.0 – 01.11.2026
+
+- Iron Exile als Spielnamen bestätigt (DEC-007).
+- Gestaltung der Hauptfigur weiterhin offen; Charaktereditor und vorgegebene Figur stehen zur Diskussion.
+
 ## 0.1.0 – 01.11.2026
 
 - Konzeptarchiv mit zentraler Navigation eingerichtet.

@@ -1,6 +1,6 @@
 # Versionsstand
 
-**Aktuelle Konzeptversion: 0.1.0**  
+**Aktuelle Konzeptversion: 0.5.0**  
 **Datum:** 01.11.2026  
 **Reifegrad:** Erste strukturierte Konzeptgrundlage  
 **Implementierung:** Nicht begonnen
@@ -15,4 +15,4 @@
 
 0.x kennzeichnet die laufende Konzeptfindung. Für den nächsten Änderungsstand die passende Nummer erhöhen; README, GDD, STATUS, diese Datei und CHANGELOG konsistent halten. Historische Einträge behalten ihre ursprüngliche Versionsnummer.
 
-Es besteht noch kein Git-Repository für dieses Projekt. Dieses Versionssystem dokumentiert Stände; es ersetzt keine Dateisicherung und speichert keine früheren Dateiinhalte automatisch.
+GitHub-Repository: https://github.com/YunaHyuuga/Iron-Exile. Konzeptstand 0.5.0 wird mit diesem Nutzerauftrag übertragen; es gibt keine automatische Synchronisierung. Dieses Versionssystem dokumentiert Stände; es ersetzt keine Dateisicherung und speichert keine früheren Dateiinhalte automatisch.

@@ -1,14 +1,14 @@
-# Game Design Document
+# Iron Exile – Game Design Document
 
-**Version:** 0.1.0 · **Stand:** 01.11.2026 · **Status:** Konzeptgrundlage
+**Version:** 0.5.0 · **Stand:** 01.11.2026 · **Status:** Konzeptgrundlage
 
 ## 1. Vision
 
-**GESETZT:** Ein noch unbenanntes Sci-Fi-RPG auf einem riesigen Gefängnisplaneten. Eine offene, von Fraktionen geprägte Welt verbindet autoritär kontrollierte Bereiche mit gesetzlosen Trakten. Gothic dient als Referenz für das Welt- und Fraktionsgefühl; Belsavis und der Gefängnisbogen aus Andor dienen als Ausgangsinspirationen für den Schauplatz beziehungsweise die institutionelle Kontrolle.
+**GESETZT:** Ein Sci-Fi-RPG namens Iron Exile auf einem riesigen Gefängnisplaneten. Eine offene, von Fraktionen geprägte Welt verbindet autoritär kontrollierte Bereiche mit gesetzlosen Trakten. Gothic dient als Referenz für das Welt- und Fraktionsgefühl; Belsavis und der Gefängnisbogen aus Andor dienen als Ausgangsinspirationen für den Schauplatz beziehungsweise die institutionelle Kontrolle.
 
 **VORSCHLAG für das Spielerlebnis:** Als unbedeutender Neuankömmling eine raue Gesellschaft verstehen lernen, Zugang und Einfluss erarbeiten und zwischen konkurrierenden Interessen den eigenen Weg finden.
 
-Ein endgültiger Name, eine konkrete Geschichte und feste Lore sind ausdrücklich noch nicht beschlossen.
+**GESETZT:** Der Spielname lautet Iron Exile (DEC-007). Eine konkrete Geschichte und feste Lore sind weiterhin nicht beschlossen.
 
 ## 2. Designleitplanken
 
@@ -39,9 +39,9 @@ Ein teilweiser Systemzusammenbruch ist eine mögliche Erklärung, aber keine fes
 
 ## 4. Spielerrolle und Einstieg
 
-**VORSCHLAG:** Die Spielfigur kommt ohne Einfluss an und muss sich zunächst Orientierung, Schutz und Zugang erarbeiten.
+**GESETZT (DEC-008):** Eine vorgegebene Hauptfigur im Gothic/ELEX-Stil beginnt als unbedeutender, unerfahrener Frischling ohne besondere erlernte Fähigkeiten. Sie muss ihre Skills erst im Spiel erwerben. Kein bestätigter Techniker-, Soldaten- oder Schmugglerhintergrund mit nutzbaren Fachkenntnissen. Konkrete Lernmechaniken bleiben OFFEN. Für die spätere Vertonung ist ElevenLabs vorgesehen; konkrete Stimmen sind OFFEN.
 
-**OFFEN:** Inhaftierungsgrund, Vorgeschichte, Charaktererstellung, Perspektive, Motivation und langfristiges Ziel. Flucht, Aufstieg, Überleben oder Veränderung des Systems sind mögliche Ziele; keines davon ist festgelegt.
+**OFFEN:** Inhaftierungsgrund, Vorgeschichte, genaue Erscheinung, Perspektive, weitere persönliche Motivation. Flucht ist als Ziel gesetzt (DEC-009); konkrete Ausgestaltung siehe Abschnitt 12.
 
 ## 5. Fraktionen und soziale Ordnung
 
@@ -49,7 +49,7 @@ Ein teilweiser Systemzusammenbruch ist eine mögliche Erklärung, aber keine fes
 
 **VORSCHLAG:** Gruppen unterscheiden sich durch Ressourcen, Regeln, Zugangsrechte und Interessen. Zugehörigkeit soll erfahrbare Vorteile und Kosten haben.
 
-**OFFEN:** Anzahl, Namen, Ideologien, Mitgliedschaftsregeln, Wechselmöglichkeiten und Konsequenzen. „Banden“, „Schmuggler“, „ehemalige Aufseher“ und „Gefangenenstaaten“ sind Ideen, keine bereits existierenden Fraktionen.
+**OFFEN:** Namen, Ideologien, Mitgliedschaftsregeln, Wechselmöglichkeiten und Konsequenzen. „Banden“, „Schmuggler“, „ehemalige Aufseher“ und „Gefangenenstaaten“ sind Ideen, keine bereits existierenden Fraktionen.
 
 Für spätere Entwürfe je Fraktion erfassen: kontrollierter Ort, benötigte Ressource, Angebot an den Spieler, interne Spannung, Verhältnis zur Verwaltung und zu anderen Gruppen.
 
@@ -103,3 +103,20 @@ Ein kontrollierter Zugang, ein kleiner gesetzloser Bereich und ein verbindender 
 ## 11. Nächste Konzeptentscheidungen
 
 Siehe [offene Entscheidungen](../02_Entscheidungen/ENTSCHEIDUNGEN.md) und [Roadmap](../03_Planung/ROADMAP.md). Zuerst Spielerlebnis und kleinen Testumfang schärfen; danach die dazu tatsächlich nötigen Welt- und Systemdetails ausarbeiten.
+
+## 12. Bestätigte Kapitel- und Rangstruktur (DEC-009)
+
+Dieser Abschnitt konkretisiert die zuvor offenen Angaben zu Fraktionsanzahl, Fortschritt und Ziel.
+
+| Kapitel | Rang | Verlauf |
+|---|---|---|
+| 1 | Ungeziefer | Sich einen Namen machen, Fraktionen kennenlernen, Kontakte knüpfen, erste Fähigkeiten lernen und erste Quests lösen. |
+| 2 | Häftling | Der Held ist etabliert und anerkannt. Fraktionen kennen seinen Wert. Er kann zwischen vier Häftlingsfraktionen und dem alternativen Spitzelweg auf Seiten der Wärter wählen. |
+| 3 | Wegspezifischer Fraktionsrang, Bezeichnung offen | Beitritt beziehungsweise verbindliche Wahl eines Weges und entsprechender Rangaufstieg führen in Kapitel 3. |
+
+GESETZT: Flucht als Ziel. Vier Häftlingsfraktionen plus Wärter-/Spitzelweg; die Wärter sind damit nicht automatisch eine fünfte Häftlingsfraktion. Die ersten beiden Ränge gelten vor der Bindung, danach folgen wegspezifische Ränge.
+
+OFFEN: Fraktionsnamen, weitere Ränge, konkrete Aufnahme- und Kapitelübergangsquests, Wechselmöglichkeiten, Fluchtpläne und Ende. Ungeziefer ist ein Anfangsrang; persönlicher Spitzname und bürgerlicher Name bleiben offen. Ungerechte Verurteilung und endgültige Verbannung sind weiterhin Vorschläge. Jobs wie Dieb, Schrauber, Soldat und Medic sowie die konkrete Lernmechanik sind noch nicht beschlossen.
+## 13. Aktuelle Phase: Storyplanung
+
+Siehe [Charaktersteckbrief](CHARAKTER_STECKBRIEF.md). Nächster Schwerpunkt: Verurteilungsgrund, persönliche Fluchtmotivation und Persönlichkeit. Technische Umsetzung folgt später.
