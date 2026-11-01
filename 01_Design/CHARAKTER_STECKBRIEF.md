@@ -1,11 +1,12 @@
 # Iron Exile – Charaktersteckbrief
 
-**Stand:** 0.5.0 · 01.11.2026 · **Phase:** Storyplanung
+**Stand:** 0.14.0 · 01.11.2026 · **Phase:** Storyplanung
 
 ## Bestätigt
 
 | Merkmal | Festlegung |
 |---|---|
+| Name | Nilko Senn |
 | Rolle | Vorgegebene männliche Hauptfigur im Gothic/ELEX-Stil |
 | Ausgangslage | Unbedeutender, unerfahrener Frischling ohne besondere erlernte Fähigkeiten oder Einfluss |
 | Entwicklung | Fähigkeiten lernen, Kontakte knüpfen und Anerkennung erarbeiten |
@@ -19,10 +20,10 @@
 
 ## Offen
 
-- Bürgerlicher Name, persönlicher Spitzname und Häftlingsnummer.
-- Alter, Herkunft, Spezies und konkrete Erscheinung.
-- Vergangenheit und früherer Alltag; kein Expertenberuf bestätigt.
-- Verurteilungsgrund: Zu Unrecht verurteilt ist eine Nutzeridee, noch kein Beschluss.
+- Persönlicher Spitzname und Häftlingsnummer; bürgerlicher Name ist Nilko Senn.
+- Alter, Spezies und konkrete Erscheinung; Herkunft wird aus fünf bestätigten Optionen gewählt.
+- Details der gewählten Vergangenheit; fünf einfache frühere Lebensumstände stehen in HERKUENFTE.md.
+- Zu Unrecht verurteilt ist bestätigt; der konkrete Vorwurf hängt von der Herkunft ab. Details bleiben auszuarbeiten.
 - Familie, frühere Beziehungen und persönliche Gründe für die Flucht.
 - Persönlichkeit, Sprechweise und moralischer Entscheidungsspielraum.
 - Startausrüstung, konkrete Lernmechanik und Startwerte.
@@ -36,8 +37,12 @@ Möglicher innerer Konflikt: Um zu entkommen, muss er anderen vertrauen. Seine E
 
 ## Nächste Storyfragen
 
-1. Wofür wurde er verurteilt, und war er tatsächlich unschuldig?
+1. Welche Personen und persönlichen Folgen gehören zu den fünf Herkunftsgeschichten?
 2. Was oder wer wartet außerhalb auf ihn?
 3. Welche Persönlichkeit bringt er mit, bevor der Spieler seine Entscheidungen übernimmt?
 
 Keine technische Umsetzung oder Prototypplanung Bestandteil dieses Steckbriefs.
+
+## Bestätigte Herkunftsauswahl (DEC-016)
+
+Siehe [fünf Herkünfte](HERKUENFTE.md). Nilko ist in jeder Variante unschuldig und beginnt ohne Expertenfähigkeiten. Kleine Boni, persönliche Details und Nebenquests unterscheiden die Varianten; Fraktionen und Jobs bleiben frei wählbar.

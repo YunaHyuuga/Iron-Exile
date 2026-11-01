@@ -1,5 +1,23 @@
 # Änderungsverlauf
 
+## 0.14.0 – 01.11.2026
+
+- Nilko Senn und fünf Herkunftsoptionen als bestätigt dokumentiert (DEC-016).
+- Ungerechte Verurteilung, Attributboni und persönliche Herkunftselemente übernommen.
+- README als spoilerfreie Spielvorstellung neu geschrieben; interne Unterlagen separat verlinkt.
+
+## 0.13.0 – 01.11.2026
+
+- Drei Teilgebiete der Fördergruben und ursprüngliches Konvoiziel bestätigt (DEC-015).
+- Abgeschottete, jedem offene und kriegsablehnende Zuflucht dokumentiert.
+- Bestehende Karte als noch ohne neue Unterteilung gekennzeichnet.
+
+## 0.12.0 – 01.11.2026
+
+- Graue Hand und Schaltwerker als Konfliktparteien des Konvoi-Einstiegs bestätigt (DEC-014).
+- Langjährigen Ressourcenkonflikt rund um Fördergruben und Wärter-HQ dokumentiert.
+- Neutralität des Marktviertels von Außenkonflikten unterschieden; konkrete Ressourcen bleiben offen.
+
 ## 0.11.0 – 01.11.2026
 
 - Konzeptkarte 01 als räumliche Grundlage bestätigt (DEC-013).

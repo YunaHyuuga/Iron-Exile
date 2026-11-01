@@ -30,3 +30,7 @@ Die Territoriumsfarben zeigen konzeptionelle Gebietszuordnungen; sie definieren 
 ## Erstellung
 
 Erstellt mit dem eingebauten Imagegen-Werkzeug. Das vom Nutzer bereitgestellte Gothic-Kartenbild diente als grobe visuelle Referenz für handgezeichnete Topografie und Wege, nicht als zu übernehmender Grundriss. Der vollständige Generierungsprompt liegt in PROMPT_KONZEPTKARTE_01.txt.
+
+## Textliche Konkretisierung nach Erstellung (DEC-015)
+
+Region 08 ist dreigeteilt: Eisenfaustgebiet, bewachtes Zwangsarbeitsgebiet der Wärter und umkämpftes Randgebiet zwischen Schaltwerkern und Grauer Hand. Das bestehende Kartenbild bildet diese Unterteilung noch nicht ab; die [Gebietsbeschreibung](../FOERDERGRUBEN.md) ist maßgeblich. Die Zuflucht bleibt abgeschottet, aber jedem offen; genaue Zugänge sind noch nicht geplant.

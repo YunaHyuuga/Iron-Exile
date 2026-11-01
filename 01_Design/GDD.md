@@ -1,6 +1,6 @@
 # Iron Exile – Game Design Document
 
-**Version:** 0.11.0 · **Stand:** 01.11.2026 · **Status:** Konzeptgrundlage
+**Version:** 0.14.0 · **Stand:** 01.11.2026 · **Status:** Konzeptgrundlage
 
 ## 1. Vision
 
@@ -143,4 +143,12 @@ Die Eisenfaust, Die Schaltwerker, Die Graue Hand und Die Zuflucht sind die vier 
 
 ## 19. Kartenfreigabe und Storyeinstieg
 
-DEC-013 bestätigt Konzeptkarte 01 als räumliche Konzeptgrundlage. Frühere Vorschlagsmarkierungen zur groben Karte sind damit überholt; Detailplanung bleibt offen. [Storyeinstieg](STORY_EINSTIEG.md): neuer Arbeitsentwurf mit Konvoi vom HQ zu den Fördergruben, Flucht im Gefecht zweier zunächst unbekannter Fraktionen und Ankunft im Gebiet der Grauen Hand. Kampfparteien und genaue Route offen.
+DEC-013 bestätigt Konzeptkarte 01 als räumliche Konzeptgrundlage. Frühere Vorschlagsmarkierungen zur groben Karte sind damit überholt; Detailplanung bleibt offen. [Storyeinstieg](STORY_EINSTIEG.md): neuer Arbeitsentwurf mit Konvoi vom HQ zu den Fördergruben, Flucht im Gefecht zweier zunächst unbekannter Fraktionen und Ankunft im Gebiet der Grauen Hand. Kampfparteien durch DEC-014 bestätigt: Graue Hand und Schaltwerker; langjähriger Ressourcenkonflikt rund um Fördergruben und HQ. Genaue Route und Ressourcen bleiben offen.
+
+## 20. Fördergruben und Zuflucht (DEC-015)
+
+Die [Fördergruben](FOERDERGRUBEN.md) haben drei Teilgebiete: festes Eisenfaustgebiet, stark bewachtes Zwangsarbeitsgebiet der Wärter als Konvoiziel und umkämpftes Randgebiet zwischen Schaltwerkern und Grauer Hand. Die Zuflucht ist abgeschottet, jedem offen und eher gegen offene Kriege und Konflikte. Das Kartenbild zeigt diese neue Unterteilung noch nicht.
+
+## 21. Nilko Senn und Herkünfte (DEC-016)
+
+GESETZT: Name Nilko Senn, unschuldige Verurteilung und fünf wählbare [Herkünfte](HERKUENFTE.md) mit kleinen Attributboni und persönlichen Storyelementen. Frühere offene Angaben zu Name, Unschuld und Herkunftsauswahl sind damit überholt. Keine neue Persönlichkeit oder feste Erscheinung beschlossen.

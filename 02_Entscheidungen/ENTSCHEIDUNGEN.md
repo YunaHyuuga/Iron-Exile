@@ -29,7 +29,7 @@
 ## Vorlage für neue Beschlüsse
 
 ```text
-ID: DEC-014 (nächste freie Nummer verwenden)
+ID: DEC-017 (nächste freie Nummer verwenden)
 Datum:
 Status: VORSCHLAG / GESETZT / ERSETZT / VERWORFEN
 Frage:
@@ -41,6 +41,14 @@ Ersetzt gegebenenfalls:
 ```
 
 Bestehende Beschlüsse bei Änderungen nicht spurlos löschen. Als ersetzt markieren und mit dem neuen Beschluss verknüpfen. Offene Fragen werden erst durch eine bestätigte Entscheidung verbindlich.
+
+## DEC-015 – Fördergruben und Zuflucht konkretisiert
+
+Datum: 01.11.2026 · Status: GESETZT · Grundlage: ausdrückliche Nutzerfestlegung.
+
+Die Fördergruben bestehen aus drei Teilgebieten: seit Jahren fest von der Eisenfaust gehaltenes Gebiet, dessen Rückeroberung selbst die Wärter fürchten; stark bewachtes Zwangsarbeitsgebiet der Wärter als ursprüngliches Ziel des Helden; umkämpftes Randgebiet zwischen Schaltwerkern und Grauer Hand. Genaue Grenzen, Ressourcen und Gefechtsort bleiben offen.
+
+Die Zuflucht ist abgeschottet, steht aber jedem offen und lehnt offene Kriege und Konflikte eher ab. Abschottung bedeutet hier keine beschlossene Zugangssperre. Konkrete Schutzmaßnahmen, Regeln für Waffen, Umgang mit Verfolgern und Grenzen ihrer Aufnahmebereitschaft bleiben offen. Keine Wehrlosigkeit oder ausnahmslose Gewaltlosigkeit festgelegt.
 
 ## DEC-013 – Konzeptkarte bestätigt
 
@@ -83,3 +91,15 @@ Kapitel 1: Ungeziefer, Orientierung, Kontakte, erste Quests und Fähigkeiten. Ka
 Datum: 01.11.2026 · Status: GESETZT · Grundlage: aktueller Nutzerauftrag.
 
 Das Projekt bleibt in der Storyplanung. Nächster Schwerpunkt ist der Charaktersteckbrief. Neue Persönlichkeitsvorschläge sind noch keine bestätigte Lore. Bisherige Festlegungen sollen ins vorhandene GitHub-Repository übertragen werden.
+
+## DEC-014 – Konfliktparteien des Einstiegs
+
+Datum: 01.11.2026 · Status: GESETZT · Grundlage: ausdrückliche Nutzerentscheidung.
+
+Graue Hand und Schaltwerker sind die beiden Konfliktparteien des Konvoi-Einstiegs. Sie streiten seit Jahren um das Gebiet rund um Fördergruben und Wärter-HQ, um Ressourcen zu erhalten. Für den Helden sind sie beim Einstieg noch unbekannt. Konkrete Ressourcen, territorialer Besitz und unmittelbarer Gefechtsauslöser bleiben offen. Eine Kontrolle des Wärter-HQ durch Häftlingsfraktionen ist nicht beschlossen.
+
+## DEC-016 – Nilko Senn und fünf Herkünfte
+
+Datum: 01.11.2026 · Status: GESETZT · Grundlage: Nutzer bestätigt Nilko Senn und übernimmt die fünf vorgeschlagenen Herkünfte.
+
+Name Nilko Senn; wählbare Vergangenheit als Lastenträger, Kurier, Außensiedler, Registraturgehilfe oder Marktverkäufer. Jeweils zu Unrecht verurteilt, +2 auf das zugeordnete Attribut; keine erlernten Starttalente und keine Job-/Fraktionssperre. Persönliches Gesprächsdetail, Person aus der Vergangenheit und kleine Nebenquest pro Herkunft vorgesehen. Genaue allgemeine Startskala bleibt Arbeitswert. Details siehe 01_Design/HERKUENFTE.md. Ersetzt die früheren offenen Angaben zu Name und Unschuld; die anderen Figurendetails bleiben offen.

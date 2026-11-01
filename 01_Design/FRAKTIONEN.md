@@ -28,3 +28,15 @@ Die Machtgrundlage einer Fraktion bedeutet noch kein vollständiges Monopol. Ins
 ## Zurückgestellter Spitzelpfad
 
 Der Wärter-/Spitzelweg bleibt als fünfter wählbarer Weg bestehen. Er wird erst weiter ausgearbeitet, wenn die Grundlage der vier Häftlingsfraktionen und ihres Konflikts steht. Er ist keine fünfte Häftlingsfraktion und wurde nicht gestrichen.
+
+## Bestätigte Beziehung: Graue Hand und Schaltwerker (DEC-014)
+
+Beide Fraktionen streiten seit Jahren um Ressourcen und Zugänge im Gebiet rund um Fördergruben und Wärter-HQ. Ihr Gefecht bringt den Gefangenenkonvoi zu Beginn in Gefahr. Konkrete Ressourcen, heutige Kontrolle und Auslöser der Eskalation bleiben offen. Die erklärte Neutralität des Marktviertels der Grauen Hand ist von ihrem Handeln außerhalb dieses Gebiets zu unterscheiden; sie ist keine allgemeine Friedfertigkeit.
+
+## Weitere bestätigte Eigenschaften (DEC-015)
+
+Die Eisenfaust hält seit Jahren einen Teil der Fördergruben so fest, dass selbst die Wärter eine Rückeroberung fürchten. Ihr Hauptlager bleibt im Hochsicherheitstrakt. Der Ressourcenkonflikt von Schaltwerkern und Grauer Hand betrifft das umkämpfte Randgebiet der Fördergruben.
+
+Die Zuflucht ist abgeschottet, steht aber jedem offen und ist eher gegen offene Kriege und Konflikte. Konkrete geografische beziehungsweise organisatorische Abschottung, Aufnahmeablauf und Schutzmaßnahmen bleiben offen. Daraus folgt weder Wehrlosigkeit noch ausnahmslose Gewaltlosigkeit. Frühere Überlegungen zu Bündnissen oder Gebietskriegen dürfen ihr nicht ohne weitere Entscheidung zugeschrieben werden.
+
+Siehe [Fördergruben](FOERDERGRUBEN.md).

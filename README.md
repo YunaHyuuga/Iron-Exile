@@ -1,70 +1,65 @@
-# Iron Exile – Konzeptprojekt
+# IRON EXILE
 
-**Spielname:** Iron Exile  
-**Projektkennung:** SGP-RPG · **Stand:** 0.11.0 · **Datum:** 01.11.2026  
-**Phase:** Storyplanung · **Sprache:** Deutsch
+*Hier fragt niemand, ob du schuldig bist. Nur, wozu du noch zu gebrauchen bist.*
 
-Ein dauerhaft weiterführbares Konzeptarchiv für Iron Exile: eine Gothic-artige offene Fraktionswelt auf einem Gefängnisplaneten mit autoritär kontrollierten und gesetzlosen Trakten. Die spätere Entwicklung ist mit Unreal Engine 5 und Codex vorgesehen.
+**Iron Exile** ist das Konzept eines storygetriebenen Sci-Fi-Rollenspiels über einen unschuldig Verurteilten auf einem Gefängnisplaneten. Eine raue, offene Fraktionswelt verbindet Erkundung, persönliche Entscheidungen und den mühsamen Aufstieg vom Niemand zu einem Menschen, dessen Wort etwas zählt.
 
-## Hier anfangen
+## Dein altes Leben zählt hier nicht
 
-1. [Game Design Document](01_Design/GDD.md): zusammenhängender aktueller Konzeptstand.
-2. [Entscheidungsprotokoll](02_Entscheidungen/ENTSCHEIDUNGEN.md): Was ist gesetzt, was noch offen?
-3. [Ideen-Backlog](03_Planung/IDEEN_BACKLOG.md): unverbindliche Möglichkeiten und Prüffragen.
-4. [Roadmap](03_Planung/ROADMAP.md): nächste Schritte und Bedingungen für den Phasenwechsel.
-5. [Projektstatus](04_Projekt/STATUS.md): Wiedereinstieg und nächster sinnvoller Schritt.
+Du bist **Nilko Senn**. Du hattest einen Alltag, eine Vergangenheit und einen Namen. Dann fiel ein Urteil für eine Tat, die du nicht begangen hast.
 
-6. [Charaktersteckbrief](01_Design/CHARAKTER_STECKBRIEF.md): bestätigte Eigenschaften und offene Fragen.
+Jetzt gehörst du zu einer Kolonie, in der Freiheit für die meisten nur noch eine Erinnerung ist. Hinter bewachten Anlagen und Zwangsarbeitsstätten beginnt das Gebiet der Häftlinge: alte Zellenblöcke, Werkstätten, Märkte und Zufluchtsorte. Hier gelten andere Regeln. Schutz kostet etwas. Wissen öffnet Türen. Und wer dir hilft, kann morgen eine Gegenleistung verlangen.
 
-## Projektstruktur
+Für die Menschen hier bist du zunächst nur **Ungeziefer**.
 
-```text
-Gefaengnisplaneten-RPG/
-├── README.md
-├── 01_Design/
-│   ├── GDD.md
-│   └── CHARAKTER_STECKBRIEF.md
-├── 02_Entscheidungen/
-│   └── ENTSCHEIDUNGEN.md
-├── 03_Planung/
-│   ├── IDEEN_BACKLOG.md
-│   └── ROADMAP.md
-├── 04_Projekt/
-│   ├── STATUS.md
-│   ├── VERSION.md
-│   ├── CHANGELOG.md
-│   └── ARBEITSWEISE.md
-└── 05_Referenzen/
-    └── AUSGANGSPUNKT.md
-```
+Du kannst nicht kämpfen wie ein Veteran und keine Anlage im Alleingang reparieren. Was du brauchst, musst du lernen. Wem du vertraust, musst du selbst entscheiden. Und wenn du diesen Planeten jemals verlassen willst, wirst du Menschen brauchen, denen dein Schicksal anfangs vollkommen egal ist.
 
-## Verbindlichkeit
+## Vier Fraktionen. Vier Vorstellungen vom Überleben.
 
-- **GESETZT:** vom Nutzer vorgegebene oder ausdrücklich bestätigte Richtung.
-- **VORSCHLAG:** Arbeitsentwurf, noch keine Entscheidung.
-- **OFFEN:** benötigt eine Entscheidung oder Erprobung.
-- **VERWORFEN:** bewusst ausgeschieden; Begründung bleibt erhalten.
+| Fraktion | Ihr Platz in der Kolonie |
+|---|---|
+| **Die Eisenfaust** | Stärke, Gehorsam und eine Ordnung, die mit Gewalt durchgesetzt wird. Wer ihren Schutz sucht, muss sich ihrer Hierarchie stellen. |
+| **Die Schaltwerker** | Sie halten wichtige Anlagen am Leben. Zwischen Kabeln, Pumpen und Umspannwerken wird technisches Wissen zu politischer Macht. |
+| **Die Graue Hand** | Auf ihrem Markt wechseln Waren und Gefälligkeiten den Besitzer. Ihr Einfluss reicht weit über die Verkaufsstände hinaus. |
+| **Die Zuflucht** | Abgeschottet und dennoch jedem offen. Hier finden Verletzte und Schutzsuchende einen Ort abseits der offenen Kriege. |
 
-Eine Idee im Backlog ist keine zugesagte Funktion. Die Roadmap enthält Arbeitsschritte, keine Veröffentlichungstermine. Der Ordnername bleibt aus Gründen bestehender Verweise erhalten; der bestätigte Spielname ist Iron Exile.
+Ihre Gebiete liegen nahe beieinander. Ihre Interessen selten.
 
-## Speichern und wiederfinden
+## Dein Weg durch die Kolonie
 
-Dieser gesamte Ordner ist das Projekt. Markdown-Dateien lassen sich in jedem Texteditor lesen und bearbeiten. Für einen anderen Rechner den vollständigen Ordner kopieren. Die ZIP-Datei daneben ist eine Momentaufnahme von Version 0.1.0 und wird durch spätere Änderungen nicht automatisch aktualisiert.
+- **Beginne ganz unten.** Erarbeite dir Fähigkeiten, Ausrüstung, Kontakte und Anerkennung.
+- **Wähle deine Vergangenheit.** Fünf Herkünfte erzählen, welches Leben Nilko vor seiner Verurteilung geführt hat. Jede gibt ihm eine kleine andere Veranlagung.
+- **Lerne, dich nützlich zu machen.** Stärke, Geschick, Konstitution, Verstand und Präsenz bilden die Grundlage deiner Entwicklung. Erlernbare Talente und berufliche Fachrichtungen werden darauf aufgebaut.
+- **Finde deine Verbündeten.** Lerne die Fraktionen kennen, bevor du dich an eine von ihnen bindest.
+- **Erkunde eine zerrissene Welt.** Zwischen Fördergruben, Versorgungstunneln, Schrottfeldern und streng bewachten Sektoren liegen Wege, die du erst verstehen musst.
 
-Für die nächste Sitzung zuerst README, STATUS und GDD öffnen oder den gesamten Ordner in Codex als Arbeitsordner verwenden. Kontext aus früheren Chats ist dafür nicht erforderlich. Die Dateien sind die dauerhafte Wissensbasis; ein Chat allein ersetzt sie nicht.
+**Du willst raus. Doch zuerst musst du hier überleben.**
 
-Eine zusätzliche Sicherung an einem selbst gewählten Ort oder in einem privaten Versionsarchiv schützt vor lokalem Datenverlust. GitHub-Sicherung: https://github.com/YunaHyuuga/Iron-Exile. Keine automatische Synchronisierung.
+---
 
-## Aktueller Systementwurf
+## Über dieses Projekt
 
-[Attribute, Talente und Jobs](01_Design/ATTRIBUTE_TALENTE_JOBS.md): fünf bestätigte Attribute und unverbindlicher Entwurf der Lernsysteme.
+Iron Exile befindet sich in der **Story- und Konzeptplanung**. Die spätere Entwicklung ist mit **Unreal Engine 5 und Codex** vorgesehen. Es gibt noch keinen spielbaren Build und keinen Veröffentlichungstermin. Beschriebene Systeme zeigen die Designrichtung; ihre genaue Ausgestaltung ist teilweise noch offen.
 
-[Lernen und Fortschritt](01_Design/LERNEN_UND_FORTSCHRITT.md): Entwurf für Startwerte, Talentprozente, drei Jobstufen, Fähigkeiten und LP/XP-System.
+**Konzeptstand: 0.14.0 · 01.11.2026**
 
-[Kapitelbogen 1–6](01_Design/STORY_KAPITEL.md): bestehender Einstieg und neuer Arbeitsentwurf bis zur Flucht.
+### Konzeptunterlagen – enthalten Storydetails und Spoiler
 
-[Die vier Häftlingsfraktionen](01_Design/FRAKTIONEN.md): bestätigte Auswahl, Grundgebiete und Ambitionen.
+| Einstieg | Inhalt |
+|---|---|
+| [Game Design Document](01_Design/GDD.md) | Zentraler Designstand |
+| [Charaktersteckbrief](01_Design/CHARAKTER_STECKBRIEF.md) | Nilko Senn und offene Figurenfragen |
+| [Die fünf Herkünfte](01_Design/HERKUENFTE.md) | Vergangenheit, Verurteilung und Boni |
+| [Fraktionen](01_Design/FRAKTIONEN.md) | Gebiete, Interessen und Beziehungen |
+| [Konzeptkarte](01_Design/Karten/KONZEPTKARTE_01.md) | Räumliche Grundlage der Kolonie |
+| [Fördergruben](01_Design/FOERDERGRUBEN.md) | Drei Teilgebiete und ihre Kontrolle |
+| [Storyeinstieg](01_Design/STORY_EINSTIEG.md) · [Kapitelbogen](01_Design/STORY_KAPITEL.md) | Geplanter Handlungsverlauf |
+| [Attribute, Talente und Jobs](01_Design/ATTRIBUTE_TALENTE_JOBS.md) · [Lernsystem](01_Design/LERNEN_UND_FORTSCHRITT.md) | Systementwürfe und offene Zahlenwerte |
+| [Entscheidungsprotokoll](02_Entscheidungen/ENTSCHEIDUNGEN.md) | Bestätigte Beschlüsse und offene Fragen |
+| [Ideen-Backlog](03_Planung/IDEEN_BACKLOG.md) · [Roadmap](03_Planung/ROADMAP.md) | Möglichkeiten und weitere Schritte |
+| [Projektstatus](04_Projekt/STATUS.md) · [Version](04_Projekt/VERSION.md) · [Changelog](04_Projekt/CHANGELOG.md) | Wiedereinstieg und Entwicklung der Unterlagen |
+| [Arbeitsweise](04_Projekt/ARBEITSWEISE.md) · [Ausgangspunkt](05_Referenzen/AUSGANGSPUNKT.md) | Pflege und Herkunft des Konzepts |
 
-[Konzeptkarte 01 mit zwölf Gebieten](01_Design/Karten/KONZEPTKARTE_01.md): Bild und Gebietsliste; als räumliches Konzept bestätigt (DEC-013).
+In den Unterlagen unterscheiden **GESETZT**, **VORSCHLAG**, **OFFEN** und **VERWORFEN** den jeweiligen Entscheidungsstand. Der vollständige Ordner bleibt unabhängig von diesem Chat lesbar und bearbeitbar.
 
-[Storyeinstieg: Konvoi und Flucht](01_Design/STORY_EINSTIEG.md): neue Nutzeridee und offene Ausarbeitung.
+[GitHub-Repository](https://github.com/YunaHyuuga/Iron-Exile) · Übertragungen erfolgen auf Auftrag, nicht automatisch. Die ZIP-Datei 0.1.0 ist eine historische Erstfassung.
